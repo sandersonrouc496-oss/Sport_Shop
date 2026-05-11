@@ -85,7 +85,6 @@ public class Menu {
 
             if (price <= 0) {
                 throw new IllegalArgumentException("Цена должна быть больше 0!");
-                //throw когда ошибка выходит намерерно
             }
 
             System.out.println("Категории:");
