@@ -1,5 +1,8 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+.idea
+.gitignore
+SportShopProject_Search_UPDATED.iml
